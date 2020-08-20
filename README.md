@@ -7,3 +7,8 @@ I also **love** to teach and share what I've learned so far. I'm willing to star
 - 🌎 More info about me on my website: https://matheus.me
 - 📫 Wanna talk? Reach me at hello@matheus.me
 - 😄 Pronouns: he/him
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathcale&show_icons=true&theme=dracula" alt="mathcale's github stats" align="center" />
+</p>

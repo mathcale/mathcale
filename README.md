@@ -10,5 +10,5 @@ I also **love** to teach and share what I've learned so far. I'm willing to star
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathcale&show_icons=true&theme=dracula" alt="mathcale's github stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathcale&show_icons=true&theme=dracula&count_private=true" alt="mathcale's github stats" align="center" />
 </p>

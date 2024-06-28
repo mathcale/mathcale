@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<h1 align="center" style="border: none">Hello world 👋🏽</h1>
-<p align="center">I'm Matheus, a Full-stack Software Engineer from Rio/Brazil!</p>
+<p align="center">
+  <img src="https://matheus.me/img/logo.svg" width="120" alt="Logo">
+  <p align="center">I'm Matheus, a Full-stack Software Engineer from Rio/Brazil! 👋🏽</p>
+</p>
 
 <p align="center">
   <a href="https://matheus.me" target="_blank">

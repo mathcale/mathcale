@@ -41,6 +41,6 @@
 
 ### IoT, DIY and Home-Lab
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=flat-square&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-4053D6?style=flat-square&logo=MQTT&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13A0D4?style=flat-square&logo=Portainer&logoColor=white)
+![Proxmox PVE](https://img.shields.io/badge/Proxmox-E57000?&style=flat-square&logo=Proxmox&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=flat-square&logo=espressif&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-4053D6?style=flat-square&logo=MQTT&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13A0D4?style=flat-square&logo=Portainer&logoColor=white)
 
 <!-- (partially) Created with GPRM ( https://gprm.itsvg.in ) -->
